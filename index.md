@@ -6,3 +6,7 @@
 $ git init
 git clone https://github.com/Nom3o/Glowing-web.git
 ```
+- [x] Add header
+- [x] Add an image
+- [x] Add a code example
+- [ ] Make a task list
